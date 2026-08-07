@@ -13,6 +13,6 @@ Este projeto consiste na modelagem e implementação de um banco de dados relaci
 - **Consultas Analíticas:** Utilização de `GROUP BY`, `HAVING`, subconsultas e funções temporais (`TIMESTAMPDIFF`, `DATE_ADD`) para geração de dados estatísticos da empresa.
 
 ## Como executar
-1. Baixe o arquivo `schema_empresa.sql`.
+1. Baixe o arquivo `bd_empresa.sql`.
 2. Abra o MySQL Workbench e conecte-se ao seu servidor local.
 3. Abra o arquivo no editor e execute o script completo (`Ctrl + Shift + Enter`).
